@@ -1,12 +1,44 @@
-## FabOS
+# Documentation
+https://docs.fab-os.org
 
-<!--
+# Repository Structure
 
-**Here are some ideas to get you started:**
+[.github](https://github.com/FabOS-AI/.github): This README
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ 
+## Common
+[Documentation](https://github.com/FabOS-AI/fabos-docs): https://docs.fab-os.org
+
+[Ansible](https://github.com/FabOS-AI/ansible): Docker Image with Ansible installed.
+
+[Ansible Role | molecule_libvirt](https://github.com/FabOS-AI/molecule_libvirt): Ansible role to create / destroy VMs via KVM for testing of ansible roles.
+
+ 
+## Service Lifecycle Management
+[Setup](https://github.com/FabOS-AI/fabos-slm-setup)
+
+[Source Code](https://github.com/FabOS-AI/fabos-slm)
+
+[Service Registry Initializer](https://github.com/FabOS-AI/fabos-slm-resource-registry-init)
+
+[Service Registry Content](https://github.com/FabOS-AI/fabos-slm-service-registry-content)
+
+ 
+### Deployment Capabilites
+[Docker](https://github.com/FabOS-AI/fabos-slm-dc-docker)
+
+[Docker Swarm](https://github.com/FabOS-AI/fabos-slm-dc-docker-swarm)
+
+[K3S](https://github.com/FabOS-AI/fabos-slm-dc-k3s)
+
+[Dummy for Testing](https://github.com/FabOS-AI/fabos-slm-dc-dummy)
+
+ 
+## Base Services
+[XAutoML](https://github.com/FabOS-AI/fabos-base-service-xautoml)
+
+[Data Science Wizard](https://github.com/FabOS-AI/fabos-base-service-dswizard)
+
+ 
+## Demonstrators
+[Conserts](https://github.com/FabOS-AI/conserts-demonstrator)
