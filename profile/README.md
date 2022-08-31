@@ -13,6 +13,8 @@ https://docs.fab-os.org
 
 [Ansible Role | molecule_libvirt](https://github.com/FabOS-AI/molecule_libvirt): Ansible role to create / destroy VMs via KVM for testing of ansible roles.
 
+[Ansible Role | molecule_vsphere](https://github.com/FabOS-AI/molecule_vsphere): Ansible role to create / destroy VMs via vmware vsphere for testing of ansible roles.
+
 [Molecule](https://github.com/FabOS-AI/molecule): Docker Image with Molecule installed.
  
 ## Service Lifecycle Management
