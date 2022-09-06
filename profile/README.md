@@ -22,7 +22,7 @@ https://docs.fab-os.org
 
 [Source Code](https://github.com/FabOS-AI/fabos-slm)
 
-[Service Registry Initializer](https://github.com/FabOS-AI/fabos-slm-resource-registry-init)
+[Resource Registry Initializer](https://github.com/FabOS-AI/fabos-slm-resource-registry-init)
 
 [Service Registry Content](https://github.com/FabOS-AI/fabos-slm-service-registry-content)
 
