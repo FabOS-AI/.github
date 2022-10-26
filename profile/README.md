@@ -20,6 +20,8 @@ https://docs.fab-os.org
 [Molecule VSphere](molecule_vsphere)
 
 ## Service Lifecycle Management
+[Documentation](https://slm.docs.fab-os.org): https://slm.docs.fab-os.org
+
 [Setup](https://github.com/FabOS-AI/fabos-slm-setup)
 
 [Source Code](https://github.com/FabOS-AI/fabos-slm)
