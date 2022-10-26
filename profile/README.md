@@ -16,7 +16,9 @@ https://docs.fab-os.org
 [Ansible Role | molecule_vsphere](https://github.com/FabOS-AI/molecule_vsphere): Ansible role to create / destroy VMs via vmware vsphere for testing of ansible roles.
 
 [Molecule](https://github.com/FabOS-AI/molecule): Docker Image with Molecule installed.
- 
+
+[Molecule VSphere](molecule_vsphere)
+
 ## Service Lifecycle Management
 [Setup](https://github.com/FabOS-AI/fabos-slm-setup)
 
@@ -34,6 +36,8 @@ https://docs.fab-os.org
 
 [K3S](https://github.com/FabOS-AI/fabos-slm-dc-k3s)
 
+[K8S](https://github.com/FabOS-AI/fabos-slm-dc-k8s)
+
 [Dummy for Testing](https://github.com/FabOS-AI/fabos-slm-dc-dummy)
 
  
@@ -42,6 +46,10 @@ https://docs.fab-os.org
 
 [Data Science Wizard](https://github.com/FabOS-AI/fabos-base-service-dswizard)
 
+[AI Pipeline](fabos-base-service-ai-pipeline)
  
 ## Demonstrators
 [Conserts](https://github.com/FabOS-AI/conserts-demonstrator)
+
+## Asset Administration Shell
+[AAS Stack Sample](fabos-aas-stack-sample )
